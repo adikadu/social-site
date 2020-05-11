@@ -1,5 +1,3 @@
-https://www.udemy.com/course/mern-stack-front-to-back/
-
 This is a MERN stack application, it is a small social network app that includes authentication, profiles and forum posts.<br>
 Deployed website <a href="https://lit-crag-85547.herokuapp.com/">Link</a><br><br>
 The user will have to first register.<br>
