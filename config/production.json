@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://adikadu:adikadu@devconnector-fj8gy.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "Thisisasecret",
+    "githubClientId": "565f4e41b34f6c15db6b",
+    "githubSecret": "f1cfd938d5496fa9bf5a1021925949f4d14c5723"
+}
